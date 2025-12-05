@@ -26,18 +26,23 @@ Testing
 
 Screenshots to Include
 - Blob upload event trigger
+
 ![WhatsApp Image 2025-12-05 at 18 55 54_307d9616](https://github.com/user-attachments/assets/7c926d19-ac9a-4c47-9d29-ab01e7bcfc28)
 
 ![WhatsApp Image 2025-12-05 at 19 53 22_270a5a3a](https://github.com/user-attachments/assets/d849cfd4-8706-4439-8a2f-71445386eadf)
 
 - handleEventGrid
+  
 ![WhatsApp Image 2025-12-05 at 19 08 11_c60c1de0](https://github.com/user-attachments/assets/a414cefa-813d-4d07-9a6a-a946964bc871)
 
 - Service Bus Queue metrics / messages
+  
 ![WhatsApp Image 2025-12-05 at 18 35 30_cb9d9cda](https://github.com/user-attachments/assets/73c5087f-62ee-4c18-88a3-4dc2f45b9ac3)
 
-- QueueProcessor logs
+- QueueProcessor 
+  
 ![WhatsApp Image 2025-12-05 at 19 01 12_2443bc8c](https://github.com/user-attachments/assets/40d0e27c-530b-4d9d-9fd3-b9170195021d)
 
-- Function App showing both functions
+- Showing both functions
+  
 ![WhatsApp Image 2025-12-05 at 18 03 23_b2bf8145](https://github.com/user-attachments/assets/9c5e32f5-d1f7-4a72-8a46-98525a8c78ef)
