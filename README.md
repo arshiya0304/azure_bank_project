@@ -12,19 +12,19 @@ Components Used:
 - Azure Functions (EventGridTrigger + ServiceBusTrigger)  
 - Python
 
-How It Works
+How It Works:
 1. File uploaded → Blob Storage  
 2. Event Grid fires → triggers **handleEventGrid**  
 3. handleEventGrid extracts blob URL → sends to Service Bus Queue  
 4. **QueueProcessor** picks message → logs the content
 
-Testing
+Testing:
 - Upload a file to Blob Storage  
 - Check **handleEventGrid** logs  
 - Check **Service Bus Queue** message count  
 - Check **QueueProcessor** logs
 
-Screenshots to Include
+Screenshots:
 - Blob upload event trigger
 
 ![WhatsApp Image 2025-12-05 at 18 55 54_307d9616](https://github.com/user-attachments/assets/7c926d19-ac9a-4c47-9d29-ab01e7bcfc28)
